@@ -53,13 +53,12 @@ img{
 
 #move{
     background-color: green;
-    /* display: ruby; */
-    text-align: center;
     padding: 20px;
     margin: 34px 0px 0px 675px;
-    max-width: 133px;
-    width: 50%;
+    width: 11%;
     border-radius: 20px;
+    position: absolute;
+    right: 43%;
 }
 
 .msg-container:hover{
